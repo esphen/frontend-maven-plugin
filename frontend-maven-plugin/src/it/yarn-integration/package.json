@@ -1,7 +1,13 @@
 {
   "name": "example",
   "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "less": "~2.5.1"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
   }
 }

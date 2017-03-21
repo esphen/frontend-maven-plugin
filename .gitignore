@@ -7,3 +7,4 @@ target
 .metadata
 .recommenders
 bin
+node_modules
